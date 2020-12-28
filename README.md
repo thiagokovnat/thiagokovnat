@@ -28,7 +28,7 @@
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![C++](http://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=cpp&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![Jupyter](http://img.shields.io/badge/-Jupyter-%23F05032?style=flat-square&logo=jupyter&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-A8B9CC?style=flat-square&logo=Linux&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
