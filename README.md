@@ -2,14 +2,14 @@
 
 
 
-<img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thiagokovnat&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.linkedin.com/in/thiago-kovnat-34a941195/"/>][linkedin]
+[<img align="left" alt="Thiago Kovnat | LinkedIn" height="30px" src="https://www.linkedin.com/in/thiago-kovnat-34a941195/"/>][linkedin]
 
 
 <br />
