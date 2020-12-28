@@ -9,7 +9,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="Thiago Kovnat | LinkedIn" height="30px" src="https://www.linkedin.com/in/thiago-kovnat-34a941195/"/>][linkedin]
+[<img align="left" alt="Thiago Kovnat | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg/"/>][linkedin]
 
 
 <br />
