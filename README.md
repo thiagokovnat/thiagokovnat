@@ -3,10 +3,11 @@
 
 
 <h1 align="center" style="display:none;"></h1>
-
+<img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" />
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 
 
