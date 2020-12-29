@@ -25,7 +25,7 @@
 ---
 
 <details>
-<summary>Languages and Tools</summary>
+<summary> <b>Languages and Tools </b></summary>
   <pre> 
   <div align="left">
   <img src="http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff" alt="C" style="width:100%">
