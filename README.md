@@ -14,7 +14,7 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thiagokovnat&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+### Contact me 📝
 
 [<img align="left" alt="www.thiagokovnat.github.io" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="Thiago Kovnat | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
