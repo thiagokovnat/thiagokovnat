@@ -27,7 +27,7 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
-
+  <div align="center">
   <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C" style="width:100%">
   <img src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B" alt="C++" style="width:100%">
   <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
@@ -40,7 +40,7 @@
   <img src="http://img.shields.io/badge/-Linux-A8B9CC?style=flat-square&logo=Linux&logoColor=ffffff" alt="Linux">
   <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown" alt="Markdown">
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" alt="VS-Code">
-
+  </div>
   </pre>
 </details>
 
