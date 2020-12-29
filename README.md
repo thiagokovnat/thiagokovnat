@@ -27,7 +27,7 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
-  <div align="center">
+  <div align="left">
   <img src="http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff" alt="C" style="width:100%">
   <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B" alt="C++" style="width:100%">
   <img src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
