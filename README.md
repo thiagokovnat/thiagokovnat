@@ -54,6 +54,5 @@
 
 
 
-[website]: https://thiagokovnat.github.io
 [linkedin]: https://www.linkedin.com/in/thiago-kovnat-34a941195/
 
